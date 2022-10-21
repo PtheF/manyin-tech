@@ -3,8 +3,6 @@
 vender
 .idea
 
-go-service
-
 .DS_Store
 node_modules
 /dist
